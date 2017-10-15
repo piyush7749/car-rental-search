@@ -1,0 +1,199 @@
+{
+  "CCAR": {
+    "TypicalSeating":   "5 adults",
+    "CarTypeName": "Compact",
+    "CarTypeCode": "CCAR",
+    "PossibleFeatures":
+      "Automatic Transmission, Power Steering, Air Conditioning, Air Bags, AM/FM Stereo"
+    ,
+    "PossibleModels":
+      "Hyundai Accent or similar"
+  },
+  "ECAR": {
+    "TypicalSeating":
+      "4 adults"
+     ,
+    "CarTypeName":
+      "Economy"
+     ,
+    "CarTypeCode":
+      "ECAR"
+     ,
+    "PossibleFeatures":
+      "Automatic Transmission, Air Conditioning, Air Bags, AM/FM Stereo"
+     ,
+    "PossibleModels":
+      "Kia Rio or similar"
+
+  },
+  "FCAR": {
+    "TypicalSeating":
+      "5 adults"
+     ,
+    "CarTypeName":
+      "Full Size"
+     ,
+    "CarTypeCode":
+      "FCAR"
+     ,
+    "PossibleFeatures":
+      "Automatic Transmission, Power Steering, Air Conditioning, Air Bags, Anti-Lock Brakes, Cruise Control, AM/FM Stereo"
+     ,
+    "PossibleModels":
+      "Ford Fusion or similar"
+
+  },
+  "FFAR": {
+    "TypicalSeating":
+      "7 adults"
+     ,
+    "CarTypeName":
+      "Full Size SUV"
+     ,
+    "CarTypeCode":
+      "FFAR"
+     ,
+    "PossibleFeatures":
+      "Automatic Transmission, Power Steering, Air Conditioning, Air Bags, Cruise Control, AM/FM Stereo, CD Player"
+     ,
+    "PossibleModels":
+      "Chevy Tahoe, Toyota Highlander, or similar"
+
+  },
+  "ICAR": {
+    "TypicalSeating":
+      "4 adults"
+     ,
+    "CarTypeName":
+      "Midsize"
+     ,
+    "CarTypeCode":
+      "ICAR"
+     ,
+    "PossibleFeatures":
+      "Automatic Transmission, Power Steering, Air Conditioning, Air Bags, AM/FM Stereo"
+     ,
+    "PossibleModels":
+      "Toyota Corolla, Nissan Sentra, or similar"
+
+  },
+  "IFAR": {
+    "TypicalSeating":
+      "5 adults"
+     ,
+    "CarTypeName":
+      "Midsize SUV"
+     ,
+    "CarTypeCode":
+      "IFAR"
+     ,
+    "PossibleFeatures":
+      "Automatic Transmission, Air Conditioning"
+     ,
+    "PossibleModels":
+      "Toyota Rav4 or similar"
+
+  },
+  "LCAR": {
+    "TypicalSeating":
+      "5 adults"
+     ,
+    "CarTypeName":
+      "Luxury"
+     ,
+    "CarTypeCode":
+      "LCAR"
+     ,
+    "PossibleFeatures":
+      "Automatic Transmission, Power Steering, Air Conditioning, Air Bags, Anti-Lock Brakes, Cruise Control, AM/FM Stereo, CD Player"
+     ,
+    "PossibleModels":
+      "Cadillac ATS or similar"
+
+  },
+  "MVAR": {
+    "TypicalSeating":
+      "7 adults"
+     ,
+    "CarTypeName":
+      "Minivan"
+     ,
+    "CarTypeCode":
+      "MVAR"
+     ,
+    "PossibleFeatures":
+      "Automatic Transmission, Power Steering, Air Conditioning, Air Bags, Anti-Lock Brakes, Cruise Control, AM/FM Stereo"
+     ,
+    "PossibleModels":
+      "Dodge Grand Caravan or similar"
+
+  },
+  "PCAR": {
+    "TypicalSeating":
+      "5 adults"
+     ,
+    "CarTypeName":
+      "Premium"
+     ,
+    "CarTypeCode":
+      "PCAR"
+     ,
+    "PossibleFeatures":
+      "Automatic Transmission, Power Steering, Air Conditioning, Air Bags, Anti-Lock Brakes, Cruise Control, AM/FM Stereo, CD Player"
+     ,
+    "PossibleModels":
+      "Nissan Maxima or similar"
+
+  },
+  "SCAR": {
+    "TypicalSeating":
+      "5 adults"
+     ,
+    "CarTypeName":
+      "Standard"
+     ,
+    "CarTypeCode":
+      "SCAR"
+     ,
+    "PossibleFeatures":
+      "Automatic Transmission, Power Steering, Air Conditioning, Air Bags, Anti-Lock Brakes, AM/FM Stereo"
+     ,
+    "PossibleModels":
+      "Volkswagen Jetta or similar"
+
+  },
+  "SFAR": {
+    "TypicalSeating":
+      "5 adults"
+     ,
+    "CarTypeName":
+      "Standard SUV"
+     ,
+    "CarTypeCode":
+      "SFAR"
+     ,
+    "PossibleFeatures":
+      "Automatic Transmission, Power Steering, Air Conditioning, Air Bags, Anti-Lock Brakes, Cruise Control, AM/FM Stereo, CD Player"
+     ,
+    "PossibleModels":
+      "Hyundai Santa Fe or similar"
+
+  },
+  "STAR": {
+    "TypicalSeating":
+      "4 adults"
+     ,
+    "CarTypeName":
+      "Convertible"
+     ,
+    "CarTypeCode":
+      "STAR"
+     ,
+    "PossibleFeatures":
+      "Automatic Transmission, Power Steering, Air Conditioning, Air Bags, Cruise Control, Anti-Lock Brakes, AM/FM Stereo"
+     ,
+    "PossibleModels":
+      "Ford Mustang, Chrysler Sebring,  or similar"
+
+  }
+}
